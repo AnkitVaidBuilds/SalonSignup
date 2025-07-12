@@ -1,6 +1,6 @@
-# GitHub Setup Guide for Salon Booking Website
+# GitHub Setup Guide for SalonConApp
 
-Follow these steps to upload your salon booking website to GitHub:
+Follow these steps to connect your salon booking website to your GitHub repository:
 
 ## Required Files to Upload
 
@@ -31,11 +31,9 @@ Copy these files and folders to your new GitHub repository:
 
 1. **Create GitHub Repository** (as mentioned earlier)
 
-2. **Clone your new repository locally:**
-   ```bash
-   git clone https://github.com/yourusername/salon-booking-website.git
-   cd salon-booking-website
-   ```
+2. **Connect to your repository:**
+   - Repository URL: `https://github.com/AnkitVaidBuilds/SalonConApp.git`
+   - Use Replit's Git interface to connect to this repository
 
 3. **Copy all the project files** into the cloned folder
 
