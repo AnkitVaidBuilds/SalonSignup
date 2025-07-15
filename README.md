@@ -1,5 +1,7 @@
 # SalonConApp
 
+Test App here
+
 A professional salon booking website built with React and Node.js that allows customers to book appointments online and automatically sends email notifications to the salon owner.
 
 ## Features
